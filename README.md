@@ -7,3 +7,11 @@
 
  - Set text on row
  - Turn on/off backlight
+
+
+## Build Device
+
+
+## Upload firmware
+
+## Run and Configuration
