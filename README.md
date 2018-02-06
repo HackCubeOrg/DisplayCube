@@ -23,8 +23,9 @@ Or send directly by socket or MQTT or RF24
 Version 0.1
 
 
+
+![temp_ver1.0](http://sebcza.pl/wp-content/uploads/2018/02/27785662_1847990895271045_35937696_o.jpg)
 Version 1.0
-![temp_ver1.0](http://sebcza.pl/wp-content/uploads/2018/02/displaycube_foto.jpg)
 
 ## Features
 
